@@ -1,3 +1,6 @@
+# ignore IDEs
+.idea
+
 # ignore YeoPress configuration file since it contains password information
 .yeopress
 
