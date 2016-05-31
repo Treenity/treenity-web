@@ -1,5 +1,6 @@
 # ignore YeoPress configuration file since it contains password information
 .yeopress
+.idea
 
 # As Yeoman assumes the usage of Bower and Grunt, ignore the below:
 bower_components
@@ -37,3 +38,4 @@ app/uploads/
 app/upgrade/
 app/wp-cache-config.php
 
+/database/
